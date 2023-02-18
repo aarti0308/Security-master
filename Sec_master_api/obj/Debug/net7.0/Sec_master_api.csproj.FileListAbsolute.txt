@@ -1,0 +1,136 @@
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.AssemblyReference.cache
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.AssemblyInfoInputs.cache
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.AssemblyInfo.cs
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.CoreCompileInputs.cache
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\appsettings.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.exe
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.deps.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.runtimeconfig.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.pdb
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.Sec_master_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.build.Sec_master_api.props
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sec_master_api.props
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sec_master_api.props
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\scopedcss\bundle\Sec_master_api.styles.css
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.CopyComplete
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\refint\Sec_master_api.dll
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.pdb
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.genruntimeconfig.cache
+C:\Users\aarti\Documents\Security_master database\Sec_master_api\obj\Debug\net7.0\ref\Sec_master_api.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\appsettings.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.exe
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.deps.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.runtimeconfig.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Sec_master_api.pdb
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.AssemblyReference.cache
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.AssemblyInfoInputs.cache
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.AssemblyInfo.cs
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.CoreCompileInputs.cache
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.Sec_master_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.build.Sec_master_api.props
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sec_master_api.props
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sec_master_api.props
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\scopedcss\bundle\Sec_master_api.styles.css
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.csproj.CopyComplete
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\refint\Sec_master_api.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.pdb
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\Sec_master_api.genruntimeconfig.cache
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\obj\Debug\net7.0\ref\Sec_master_api.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\aarti\Documents\SQL Server Management Studio\Security_master database\Sec_master_api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
